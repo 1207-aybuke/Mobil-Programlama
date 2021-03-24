@@ -42,3 +42,11 @@ IONIC Nedir?
 Mobil teknolojilerin bilgisayarlardan daha çok kullanılması ve büyüyerek yaygınlaşması, mobil cihazların çeşitliliği ve işletim sistemlerinin farklılıkları yazılım geliştiricilerini mobil çözümler bulmaya itti. Bunun akabinde native uygulama geliştirmekle birlikte her platformda çalıştırılabilen uygulama yapısı oluşturmak kaçınılmaz oldu. HTML5 ve JavaScript dillerinin desteğiyle geliştirilebilen hybrit uygulamalar piyasada boy göstermeye başladı.
 
 Hybrit uygulama geliştirmek için birden fazla kütüphane bulunmaktadır. Ionic Framework bunlar içerisinden en çok tercih edilenlerdendir. Özellikle Angular.js veya Angular 2 kullanan yazılımcıların genellikle birinci tercihi Ionic olmaktadır. Ionic açık kaynak kodlu bir yapıyla bir çok binlerce takipçisi ve destekçisiyle bir çok mobil uygulamayı barındırmaktadır. Ionic Framework şahsi tabirleriyle “first class” dökümantasyonu olan kullanışlı, öğrenmesi kolay bir kütüphanedir.
+
+# .gitattributes
+*.angular linguist-detectable=true
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.css linguist-detectable=false
