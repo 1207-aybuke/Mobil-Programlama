@@ -43,10 +43,4 @@ Mobil teknolojilerin bilgisayarlardan daha çok kullanılması ve büyüyerek ya
 
 Hybrit uygulama geliştirmek için birden fazla kütüphane bulunmaktadır. Ionic Framework bunlar içerisinden en çok tercih edilenlerdendir. Özellikle Angular.js veya Angular 2 kullanan yazılımcıların genellikle birinci tercihi Ionic olmaktadır. Ionic açık kaynak kodlu bir yapıyla bir çok binlerce takipçisi ve destekçisiyle bir çok mobil uygulamayı barındırmaktadır. Ionic Framework şahsi tabirleriyle “first class” dökümantasyonu olan kullanışlı, öğrenmesi kolay bir kütüphanedir.
 
-# .gitattributes
-*.angular linguist-detectable=true
-*.java linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.css linguist-detectable=false
+
